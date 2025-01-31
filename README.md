@@ -178,7 +178,7 @@ src
 This project is licensed under the MIT License
 
 ## Contact
-- Project Link: [CartyShops](https://github.com/Samuel-Adeyeye/CartyShops-Backend--Java-Spring-Boot)
+- Project Link: [CartyShops](https://github.com/Samuel-Adeyeye/CartyShops-Backend--Java-Spring-Boot-)
 
 - Connect: 
 [Email](samueladeyeye2012@gmail.com) |
