@@ -75,6 +75,12 @@ public class Image {
 }
 
 ```
+## Database Schema
+![CartyShops Database Schema](src/assets/db_schema.png)
+
+The above schema shows the relationships between our core entities:
+- Product to Category (Many-to-One)
+- Product to Images (One-to-Many)
 
 ## API Endpoints
 
